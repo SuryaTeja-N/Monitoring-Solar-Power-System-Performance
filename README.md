@@ -77,6 +77,9 @@ If you have any feedback, please reach out to us at neerukattusurya1@gmail.com
 
 ![        Logo](https://user-images.githubusercontent.com/49818539/187814698-a51c5004-f501-41bd-828c-ec3c7f14a25d.png)
 
+## GSM Commands used
+
+- ![](https://user-images.githubusercontent.com/49818539/187818448-e58e90d0-de88-4bcf-bf4d-0d088280321f.png)
 
 ## Central Circuit
 
