@@ -5,7 +5,7 @@
 The proposed system used for analysis of solar energy generation,storage, and monitoring using IoT and with help of standerd protols like MQTT.
 ## Acknowledgements
 
- - I would like to share success of implementing this idea with my inmate [Sai Swaroop](https://www.linkedin.com/in/saiswaroop-natukula-436bbb18a/) for his perpetual support and contributions.
+ - I would like to share success of implementing this idea with my pal [Sai Swaroop](https://www.linkedin.com/in/saiswaroop-natukula-436bbb18a/) for his perpetual support and contributions.
  - And i like to express my sincere and deep sense of gratitude to my Guide [Mr. L. JEGAN ANTONY MARCILIN]() M.Tech for his valuable guidance, suggestions and constant encouragement paved way for the successful completion of set-up.
  
 
